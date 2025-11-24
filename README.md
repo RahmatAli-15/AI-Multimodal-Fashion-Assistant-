@@ -84,15 +84,10 @@ The system exports:
 
 # 📊 **Performance Highlights**
 
-10+ autonomous agents orchestrated for fashion intelligence
-
-45% improved accuracy in color & style classification (via BLIP/FaceBody pipeline)
-
-70% reduction in styling query time with automated keyword generation
-
-55% better ranking relevance with LLM-powered logic
-
-60% reduced user effort with hands-free STT + TTS
-
-Processes 100+ images with consistent output quality
+- **10+ autonomous agents** orchestrated for real-time fashion intelligence  
+- **45% improvement** in color & style classification accuracy using the Vision + FaceBody pipeline  
+- **70% reduction** in styling query time thanks to automated keyword extraction and smart routing  
+- **55% boost** in recommendation relevance with LLM-powered contextual ranking  
+- **60% less user effort** with complete hands-free interaction (STT + TTS)  
+- **Processed 100+ user images** with consistent, high-quality outfit recommendations  
 
